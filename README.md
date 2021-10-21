@@ -1,2 +1,3 @@
-# alimer_third_party
+# Alimer Engine Thirdparty Code and Libraries
+
 Third Party libs that are not part of Alimer build system
